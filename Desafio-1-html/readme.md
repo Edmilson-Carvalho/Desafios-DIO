@@ -1,41 +1,41 @@
-#  Notícias jurídicas :briefcase:
+#                                                              Desafio Dio - HTML-1        
 
-​	Bem-vindo ao **Notícias Jurídicas**, sua fonte confiável de notícias atualizadas, análises profundas e insights sobre os acontecimentos mais relevantes do mundo do direito. Aqui, você encontrará uma variedade de tópicos abrangendo política, tecnologia, ciência, cultura, entretenimento e muito mais. Nossa missão é mantê-lo informado de maneira imparcial e envolvente.
+#                                                                          <img src="C:\Users\edmil\OneDrive\Área de Trabalho\Estudo de programação\Projetos_Visual_code\Desafios-Dio\Desafio-1-html\imagens\logo-dio-sem-fundo.png.png" alt="Logo Dio" style="zoom: 33%;" />  
 
-## Sobre Nós
+​	Seja muito bem vindo ao meu primeiro desafio Dio para construção de portifólio ! Apesar da proposta ser a  simplicidade, nos próximos tópicos explicarei detalhadamente as tags utilizadas no código e o " bônus" que eu pesquisei pesquisei para deixar a pagina esteticamente e funcionalmente melhor
 
-​	Nossa equipe conta com 3 advogados renomados  apaixonados e experientes que  se dedicam a entregar conteúdo de alta qualidade Acreditamos no poder da informação precisa e bem pesquisada para capacitar indivíduos a entenderem o mundo ao seu redor.
+## Proposta do desafio
 
-## O que Oferecemos
+​	A ideia deste Desafio de Projeto é elaborar um website, utilizando uma estrutura bem básica, utilizando tags aprendidas durante as aulas práticas:
 
-- **Notícias Atualizadas:** Fique por dentro das últimas notícias e eventos nacionais que moldam nosso mundo. Nossos artigos são <u>atualizados regularmente</u> para garantir que você tenha acesso às informações mais recentes.
-- **Análises Profundas:** Além das notícias, oferecemos análises aprofundadas que exploram os contextos e implicações por trás dos acontecimentos. Nossos especialistas desmontam os aspectos mais complexos dos assuntos para que você possa entender melhor as histórias.
-- **Diversidade de Tópicos:** Desde política até mudanças em entendimentos jurisprudências, ar abrangemos uma ampla gama de tópicos para manter você informado sobre diversos aspectos da vida jurídica.
-- **Opiniões e Debates:** Acreditamos na importância do diálogo. Oferecemos espaço para opiniões diversas e debates saudáveis sobre questões relevantes. Queremos que nossos leitores se sintam incentivados a pensar criticamente e a compartilhar suas perspectivas.
+ 
 
-## Como Navegar
+- Utilizar todas as tags explicadas nas aulas: **<h1> até <h6>, <p>, <mark>, <small>, <i>, <u>, <strong>, <ol>, <ul>, <li>, <a>, <hr>, <sub>, <sup>, <blockquote>**;
+- Utilizar novas tags sugeridas: **<font>, <del>, <p>, <abbr>**
 
-​	Navegar pelo **Noticias Jurídicas** é simples e intuitivo. Você encontrará as últimas postagens na nossa página inicial. Use a barra de pesquisa para procurar tópicos específicos que lhe interessem. Não deixe de explorar nossas categorias para encontrar uma variedade de conteúdo em áreas que lhe despertam interesse.
+## Bônus 
 
-## Fique Conectado
+Além da tags acima, fiz uma pesquisa  descobri como alterar o Background copiando o endereço URL da imagem e fazendo as devidas configurações em arquivo CSS a parte (background-size, repeat e position ).
 
-​	Mantenha-se atualizado com as últimas notícias e atualizações do **Noticias jurícias** seguindo-nos nas redes sociais:
+Eu entendo que essa pesquisa foi dedicada a CSS ( ao invés de HTML), no entanto, mudar o fundo acrescentando alguma imagem faz total diferença na hora de entende como funciona a comunicação e dependência entre arquivos HTML e CSS. Dessa maneira, optei por perder um tempo maior ( na verdade ganhar um tempo seria o termo correto) para adiantar meus estudos e entender essa tecnologia. 
 
-- Facebook: https://www.facebook.com/noticiasjuridicas
-- Twitter: https://www.twitter.com/noticiasjuridicas
-- Instagram: https://www.instagram.com/noticiasjuridicas
+Um destaque importante para a segunda pagina " suggestion" foi a criação de um simples (não funcional) formulário para o cliente deixar a sua opinião. A ideia inicial seria um quadro de sugestões, por;em como o desafio é simples, optei por não me aprofundar muito nessa parte e aguardar o momento correto. Dessa maneira, somente foram utilizadas  as tags <form> com os " inputs" e atributos text, id, name, submit e value. 
 
-​	Além disso, você pode se inscrever em nossa newsletter para receber um resumo semanal das principais histórias diretamente em sua caixa de entrada.
+## Conclusão 
 
-## Contribua e Comente
-
-​	Valorizamos a opinião de nossos leitores. Sinta-se à vontade para deixar comentários construtivos em nossos artigos e participar das discussões. Se você estiver interessado em contribuir com um artigo, entre em contato conosco. Estamos sempre em busca de novas perspectivas e vozes para enriquecer nossa comunidade.
-
-​	Obrigado por escolher o **Noticias jurídicas** como sua fonte confiável de notícias e informações. Juntos, exploraremos o mundo em constante evolução e entenderemos as complexidades que moldam nosso futuro.
-
-Equipe **Noticias Jurídicas**                                                                        
+​	Apesar do desafio ser simples, o estudo do HTML requer bastante atenção e pesquisa. As vezes visualizamos algo em nossos pensamentos mas na hora de por em prática sempre possuímos duvidas. Pesquisei bastante no Google como atribuir os atributos das tags  utiliza-las de forma correta. Quando alguma coisa não funcionava eu utilizava o chat GPT para apontar a origem do erro e me sugestionar uma alguma forma melhor de aplicar utilizada. Agradeço a Deus pela inspiração, plataforma Dio pela excelência do corpo docente e metodologia de estudo e claro, a voce nobre colega que se dispôs a ler esse texto até o final. Até a próxima ! 
 
 
 
-​                                                                                      ![](C:\Users\edmil\OneDrive\Área de Trabalho\Estudo de programação\Projetos_Visual_code\Desafios_Dio\Desafio-1-blog\imagens\balanca_justica.png)
+![logomarca](C:\Users\edmil\OneDrive\Área de Trabalho\Estudo de programação\Projetos_Visual_code\Desafios-Dio\Desafio-1-html\imagens\Edmilson-Carvalho-logo-sem-fundo-sombreado.png)
+
+
+
+ 
+
+
+
+
+
+ 
 
