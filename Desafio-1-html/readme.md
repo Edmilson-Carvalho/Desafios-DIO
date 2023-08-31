@@ -1,6 +1,6 @@
-#                                                              Desafio Dio - HTML-1        
+#                                  Desafio Dio - HTML-1        
 
-#                                                                          <img src="C:\Users\edmil\OneDrive\Área de Trabalho\Estudo de programação\Projetos_Visual_code\Desafios-Dio\Desafio-1-html\imagens\logo-dio-sem-fundo.png.png" alt="Logo Dio" style="zoom: 33%;" />  
+ 
 
 ​	Seja muito bem vindo ao meu primeiro desafio Dio para construção de portifólio ! Apesar da proposta ser a  simplicidade, nos próximos tópicos explicarei detalhadamente as tags utilizadas no código e o " bônus" que eu pesquisei pesquisei para deixar a pagina esteticamente e funcionalmente melhor
 
@@ -10,8 +10,8 @@
 
  
 
-- Utilizar todas as tags explicadas nas aulas: **<h1> até <h6>, <p>, <mark>, <small>, <i>, <u>, <strong>, <ol>, <ul>, <li>, <a>, <hr>, <sub>, <sup>, <blockquote>**;
-- Utilizar novas tags sugeridas: **<font>, <del>, <p>, <abbr>**
+- Utilizar todas as tags explicadas nas aulas: ** h1** até **h6, p, mark, small, i, u, strong, ol, ul, li, a, hr, sub, sup, blockquote**;
+- Utilizar novas tags sugeridas: **font, del, p, abbr**
 
 ## Bônus 
 
@@ -19,7 +19,7 @@ Além da tags acima, fiz uma pesquisa  descobri como alterar o Background copian
 
 Eu entendo que essa pesquisa foi dedicada a CSS ( ao invés de HTML), no entanto, mudar o fundo acrescentando alguma imagem faz total diferença na hora de entende como funciona a comunicação e dependência entre arquivos HTML e CSS. Dessa maneira, optei por perder um tempo maior ( na verdade ganhar um tempo seria o termo correto) para adiantar meus estudos e entender essa tecnologia. 
 
-Um destaque importante para a segunda pagina " suggestion" foi a criação de um simples (não funcional) formulário para o cliente deixar a sua opinião. A ideia inicial seria um quadro de sugestões, por;em como o desafio é simples, optei por não me aprofundar muito nessa parte e aguardar o momento correto. Dessa maneira, somente foram utilizadas  as tags <form> com os " inputs" e atributos text, id, name, submit e value. 
+Um destaque importante para a segunda pagina " suggestion" foi a criação de um simples (não funcional) formulário para o cliente deixar a sua opinião. A ideia inicial seria um quadro de sugestões, por;em como o desafio é simples, optei por não me aprofundar muito nessa parte e aguardar o momento correto. Dessa maneira, somente foram utilizadas  as tags form com os " inputs" e atributos text, id, name, submit e value. 
 
 ## Conclusão 
 
@@ -27,7 +27,9 @@ Um destaque importante para a segunda pagina " suggestion" foi a criação de um
 
 
 
-![logomarca](C:\Users\edmil\OneDrive\Área de Trabalho\Estudo de programação\Projetos_Visual_code\Desafios-Dio\Desafio-1-html\imagens\Edmilson-Carvalho-logo-sem-fundo-sombreado.png)
+
+
+![logomarca](Desafio-1-html/imagens/Edmilson-Carvalho-logo-sem-fundo-sombreado.png)
 
 
 

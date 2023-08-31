@@ -1,4 +1,5 @@
-#                                        <img src="C:\Users\edmil\OneDrive\Área de Trabalho\Estudo de programação\Projetos_Visual_code\Desafios-Dio\Desafio-1-html\imagens\logo-dio-sem-fundo.png.png" alt="logomarca" style="zoom:25%;" />                                                                                                                                              Desafios Dio
+                                                                                                                                 
+### Desafios Dio
 
 ### Sejam muito bem vindos ! 
 
@@ -22,4 +23,6 @@ Para facilitar a compreensão da proposta do desafio e expor meu aprendizado, ca
 
 ​        Os desafios serão feitos com as <u>mais diversas tecnologias direcionadas a área de atuação do profissional FullStack,</u> começando por linguagens de marcação como Html e Css, linguagens de programação de tipagem dinâmica (JavaScript), FrameWorks e finalizando, com o nosso bom e velho e querido Java no Backend.  
 
-![logomarca](C:\Users\edmil\OneDrive\Área de Trabalho\Estudo de programação\Projetos_Visual_code\Desafios-Dio\Desafio-1-html\imagens\Edmilson-Carvalho-logo-sem-fundo-sombreado.png)
+
+
+![logomarca](Desafio-1-html/imagens/Edmilson-Carvalho-logo-sem-fundo-sombreado.png)
